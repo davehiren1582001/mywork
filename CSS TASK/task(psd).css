@@ -1,0 +1,145 @@
+*{box-sizing: border-box;margin: 0;padding: 0;}
+
+body{
+      overflow-x: hidden;
+}
+.yz{
+      height: 78px;
+      width: 1500px;
+      background-color: rgb(255, 113, 1);
+      display: flex;
+      /* position: relative;  */
+}
+.logo{
+      height: 70px;
+      width: 150px;    
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR884VgnRj5ZgtlBHKY5oR8TjFr7ch7DwFEMg&usqp=CAU);
+      background-size: 100% 100%;
+      background-repeat: no repeat;
+      /* position: absolute;
+      top: 3px;
+      left: 159px; */
+}  
+ul{ 
+    margin-left: 450px;
+    display: flex;
+    line-height: 40px;
+    list-style: none;
+}
+.menu{
+      
+      padding: 20px;
+      
+}
+ .fa{ 
+      height: 25px;
+      width: 25px;
+
+      
+}
+.y{   height: 30px;
+      width: 30px;
+      background-color: white;
+      text-align: center;
+      line-height: 30px;
+      padding-top: 4px;
+}
+div .fa{
+      margin-top: 25px;
+      margin-left: 30px;
+      
+      
+}
+ .homeline{
+      height: 30px;
+      width: 1500px;
+      background-color: grey;
+      line-height: 30px;
+      padding-left: 160px;
+}
+ .x{  
+      
+      position: absolute;
+      top: 98px;
+      left: 12.50%;
+
+      
+}
+.image1{
+      
+      height: 400px;
+      width: 68%;
+      margin-left:100px ;
+       /* position: absolute;
+     top: 125px;
+      left: 5.20% ; */
+      margin:30px 0 0 200px ;
+      border: 5px solid grey;
+      
+
+}
+ .z{
+      height: 23px;
+      width: 20px;
+      border-radius: 5px;
+      background-color:rgb(255, 113, 1) ;
+      background-size: 100% 100%;
+       position: absolute; 
+      top: 300px;
+      left: 15.24%; 
+      text-align: center;
+      line-height: 5px;
+      
+}
+.z1{
+      height: 23px;
+      width: 20px;
+      border-radius: 5px;
+      background-color:rgb(255, 113, 1) ;
+      background-size: 100% 100%;
+      position: absolute;
+      top: 300px;
+      left: 83.1%;
+      padding-left: 5px;
+}
+.image4{ 
+      height: 350px;
+      width: 100%;
+      background-color: grey;
+      margin: 50px 0 0 0;
+      display: flex;
+}      
+      
+      
+      
+
+
+.image4 .xyz
+{
+
+      height: 250px;
+      width: 20%;
+      margin: 50px 0 0 70px;
+      background-color: white;
+      padding-left: 50px;
+      
+
+}
+.font4{
+      font-size: 14px;
+}
+.title{
+      color: aqua;
+      margin-left: 40px;
+}
+.button{
+      height: 30px;
+      width: 100px;
+      background-color: darkblue;
+      color: white;
+      border: none;
+      margin-left: 22px;
+      font-size: 13px;
+}
+
+
