@@ -1,0 +1,85 @@
+1.what is the benefits of using css?
+ans- Web designers needs to use few lines of programming for every page improving site speed. Cascading sheet not only simplifies website  development, but also simplifies the maintenance as a change of one line of code affects the whole web site and maintenance time
+
+2.what are the disadvantages of css?
+ans- 1.CSS works differently on different browsers. IE and Opera supports CSS as different logic.
+     2.There might be cross-browser issues while using CSS.
+     3.There are multiple levels which creates confusion for non-developers and beginners. 
+
+3.what is the different between css2 and css3?
+ans- Unlike CSS2, which was comprised of a single document, CSS3 has its specifications divided into many individual modules, which makes CSS3 a whole lot easier to handle.
+
+4.name a few css style components.
+ans- 1)Selecter:HTML element name, id name, class name. 
+     2)Property:It's like an attribute such as background color,font-size,position,text-align,color,border etc. 
+     3)Values:which defines property or values allocate for properties.
+
+5.what do you understand by css opacity?
+ans- The opacity-level describes the transparency-level, where 1 is not transparent at all, 0.5 is 50% see-through, and 0 is completely transparent.   
+
+6.how can the background colour of an element be changed?
+ans-  the background color of an HTML element using the background-color CSS property and giving it a value of a color.
+
+7.how can image repetition of the backup be controlled?
+ans- To control the repetition of an image in the background, use the background-repeat property.
+
+8.what is the use of the background-position property?
+ans-  background-position
+
+9.which property controls the image scroll in the background?
+ans- The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed.
+
+10.why should beckground and color be used as seperate properties?
+ans- because It enhances the legibility of style sheets.
+
+11.how to center block elements using css1?
+ans- By setting the properties margin-left and margin-right to auto and width to some explicit value:
+
+     BODY {width: 30em; background: cyan;}
+     P {width: 22em; margin-left: auto; margin-right: auto}
+
+12.how to maintain the css specifications?
+ans- The CSS specifications are maintained by the World Wide Web Consortium (W3C).
+
+13.what are the ways to integrate css as a web page?
+ans- there is three ways are available in css
+    1.inline
+    2.internal
+    3.external
+
+14.what is the embedded style sheets?
+ans- Embedded Stylesheet: It allows you to define styles for a particular HTML document as a whole in one place.
+
+15.what are the external style sheets?
+ans- An external style sheet is a separate CSS file that can be accessed by creating a link within the head section of the webpage. 
+
+16.what are the advantages and disadvantages of using external style sheets?
+ans- Advantages
+
+     1) The style of a few documents can be controlled from the site by utilizing them.
+     2) Multiple HTML elements can have numerous documents, where classes can be made.
+     3) To assemble styles in complex circumstances, selector and grouping strategies are utilized.
+
+     Disadvantages
+
+     1) The additional download is expected to import documents having style information.
+     2) To render the documents, the outer template ought to be stacked.
+     3) Not practical for small style definitions.
+  
+17.what is the meaning of the css selector?
+ans- A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML      elements should be selected to have the CSS property values inside the rule applied to them.
+
+18.what are the media types allowed by css?
+ans-  1. continuous or paged.
+      2.visual, audio, speech, or tactile.
+      3.grid (for character grid devices), or bitmap.
+      4.interactive (for devices that allow user interaction), or static (for those that do not).
+      5.all (includes all media types)
+
+19.what is the rule set?      
+ans- A collection of rules or signatures that network traffic or system activity is compared against to determine an action to take—such  as forwarding or rejecting a packet, creating an alert, or allowing a system event.
+
+20.create layout
+ans-other file include
+          create layout.html
+
