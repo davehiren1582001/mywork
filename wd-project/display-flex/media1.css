@@ -1,0 +1,303 @@
+ @media(max-width: 500px) {
+     .subtitle-left {
+         width: 100%;
+     }
+
+     .subtitle-right {
+         width: 100%
+     }
+
+
+     .subtitle {
+         padding-top: -10px;
+         margin: 0px auto;
+         height: auto;
+         width: 81.20%;
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .subtitle-right {
+         text-align: center;
+         margin-right: 180px;
+     }
+
+     .navbar .dropdown {
+        
+         display: none;
+
+     }
+
+
+     .image-content {
+         width: 100%;
+     }
+     
+
+     .navbar .orange-block {
+
+         display: none;
+     }
+
+     .image-content .bg-image .title {
+         width: 70%;
+         font-family: sans-serif;
+         font-size: 26px;
+         color: white;
+         margin: 0px 40px;
+
+     }
+ .button_a .x1{width: 100%;}
+ .button_a .x2{width: 100%;margin-top:-50px;}
+ 
+.button{
+   
+     width: 100%;
+}
+.row-image {
+     display:block ;
+}
+.row-image .a1{
+    padding-top: 10px;
+}
+.row-image .a1 .a2 {
+    background-color: #212529;
+    color: #e6e7e8;
+}
+.bussiness-maintain{
+    display: flex;
+    margin-top: 100px;
+    padding-left: 20px;
+    height: auto;
+    width: 100%;
+    background-color: #E6E7E8;
+    position: relative;
+
+}
+.bussiness-maintain .image{
+   
+    width: 90%;
+    padding-top: 100px;
+   
+}
+.bussiness-maintain .small-content{
+    height: auto;
+    width: 180px;
+    /* background-color: #fd7e14; */
+    border-radius: 50%;
+    border: 1px solid  #fd7e14;
+    position: absolute;
+    top: 390px;
+    left: 28%;
+    display: none;
+
+}
+.bussiness-maintain .small-content .round-content{
+    height: auto;
+    width: 150px;
+    background-color: #fd7e14;
+    border-radius: 50%;
+    margin: 25px auto;
+    text-align: center;
+    padding-top: 10px;
+    color: #e6e7e8;
+    position: absolute;
+    top: 0;
+    left: 4px;
+
+}
+
+.bussiness-maintain .typing{
+    
+    width: 100%;
+    
+}
+.bussiness-maintain .typing .typing-in{
+    margin-top: 200px;
+}
+.typing-in .margin span{
+    color: #fd7e14;
+
+}
+.typing-in .lorem-div{
+    margin-top: 20px;
+}
+
+.typing-in .increase{
+    margin-top: 10px;
+    font-size: 30px;
+    
+}
+
+.typing .list-area1{
+    
+    width: 100%;
+    line-height: 25px;
+    padding-right: 20%;
+    justify-content: left;
+    
+    
+}
+
+/* .typing .list-area1 .image1{ 
+   
+    width: 50%;
+}
+.typing .list-area1 .write{ 
+   
+    width: 50%;
+} */
+.typing .button-content{
+    height: auto;
+    /* width: 90%; */
+    /* display: flex; */
+    
+}
+.typing .button-content .ceo-image{
+    width: 100%;
+}
+.typing .button-content .button-content .button-icon{
+    width: 100%;
+}
+
+.typing .button-content .ceo-image .image-set{
+    margin: 33px 18px;
+    
+}
+.typing .button-content .ceo-image .head{
+    width: 70%;
+    margin:  38px -81px;
+}
+hr{
+    display: none;
+}
+.building-content{
+    width: 100%;
+}
+.building-content .building-box{
+    width: 95%;
+    position: relative;
+}
+.building-box .b-image{
+    /* height: auto;
+    width: 200px;
+    background-image: url(https://nextgenerationdev.com/demos/html/conbus/conbus/assets/images/about/video/Icon.png);
+    background-repeat: no-repeat; */
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    right: 0;
+    
+}
+/* .building-content .watch-video{
+    padding-bottom: 78px;
+} */
+.portfolio .portfolio-section span{
+    left: 13%;
+}
+.portfolio .four-pic{
+    
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15px;
+    
+    }
+.girl-content{
+    margin-top: 100px;
+    /* min-width: 968px; */
+    /* flex-direction: column; */
+}    
+.girl-content .writing-content{
+    width: 100%;
+    
+    }    
+    .girl-content .photo-content{
+    width: 100%;
+    
+} 
+.senior-market{
+    padding-left: 10px;
+    flex-wrap: wrap;
+    
+}
+.senior-market .pic{
+    margin-top: 100px;
+    width: 100%;
+}   
+.senior-market .writing{
+    width: 100%;
+    
+}
+.senior-market .writing h4{
+    text-align: center;
+}
+.faq-section .writing-content{
+    width: 100%;
+}
+.faq-section .picture-content{
+    width: 100%;
+}
+.faq-section .picture-content .pic1{
+    width: 45%;
+    /* background-color: red; */
+    /* margin-left: 40px; */
+    /* margin-top: 80px;
+    padding-left: 20px; */
+    position: absolute;
+    top: 180px;
+    left: 4%;
+}
+.faq-section .picture-content .pic2{
+    width: 45%;
+    /* background-color: #fd7e14; */
+    /* margin-left: 0px;
+    margin-top: 40px;
+    padding-left: 20px; */
+    position: absolute;
+    top: 112px;
+    left: 51%;
+    
+}
+.big-content .squre-box .a{
+    width: 100%;
+}
+.big-content .squre-box .b{
+    width: 100%;
+
+}
+.contact-us .writing-content{
+    width: 100%;
+}
+.contact-us .input-content{
+    width: 100%;
+}
+.blank .blank1{
+    width: 100%;
+}
+.blank .blank2{
+    width: 100%;
+}
+.blank .blank3{
+    width: 100%;
+}
+.last-image .a .conbus{
+    width: 100%;
+}
+.last-image .a .page{
+    width: 100%;
+}
+.last-image .a .post{
+    width: 100%;
+}
+.last-image .a .infomation{
+    width: 100%;
+}
+.last-image .last-line .line1{
+    width: 100%;
+}
+.last-image .last-line .line2{
+    width: 100%;
+    padding-left: 0;
+}
+}
